@@ -1,0 +1,12 @@
+{
+  "precision": 0.8,
+  "recall": 1.0,
+  "f1_score": 0.889,
+  "owner_accuracy": 1.0,
+  "deadline_accuracy": 1.0,
+  "evidence_grounding_score": 1.0,
+  "processing_time": 0.01,
+  "total_meetings_evaluated": 4,
+  "total_gold_items": 4,
+  "total_extracted_items": 5
+}

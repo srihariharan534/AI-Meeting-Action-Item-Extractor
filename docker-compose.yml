@@ -1,0 +1,30 @@
+
+services:
+  api:
+    build: .
+    container_name: ai_meeting_extractor_api
+    ports:
+      - "8080:8000"
+    environment:
+      - APP_ENV=production
+      - DATABASE_URL=sqlite:///./meeting_actions.db
+      - AI_PROVIDER=mock
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+
+  dashboard:
+    build: .
+    container_name: ai_meeting_extractor_dashboard
+    command: streamlit run dashboard/app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    environment:
+      - APP_ENV=production
+      - DATABASE_URL=sqlite:///./meeting_actions.db
+      - AI_PROVIDER=mock
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+    depends_on:
+      - api

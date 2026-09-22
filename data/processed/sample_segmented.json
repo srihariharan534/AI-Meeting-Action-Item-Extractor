@@ -1,0 +1,192 @@
+[
+  {
+    "segment_id": "seg_001",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:00",
+    "timestamp_end": null,
+    "original_text": "Good morning everyone.",
+    "cleaned_text": "Good morning everyone.",
+    "sequence_number": 1
+  },
+  {
+    "segment_id": "seg_002",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:00",
+    "timestamp_end": null,
+    "original_text": "Let's kick off our sprint planning and Q3 review.",
+    "cleaned_text": "Let's kick off our sprint planning and Q3 review.",
+    "sequence_number": 2
+  },
+  {
+    "segment_id": "seg_003",
+    "meeting_id": "sample_001",
+    "speaker": "Arun",
+    "timestamp_start": "09:01",
+    "timestamp_end": null,
+    "original_text": "Good morning.",
+    "cleaned_text": "Good morning.",
+    "sequence_number": 3
+  },
+  {
+    "segment_id": "seg_004",
+    "meeting_id": "sample_001",
+    "speaker": "Arun",
+    "timestamp_start": "09:01",
+    "timestamp_end": null,
+    "original_text": "I reviewed last week's metrics and the overall conversion rate is up 4%.",
+    "cleaned_text": "I reviewed last week's metrics and the overall conversion rate is up 4%.",
+    "sequence_number": 4
+  },
+  {
+    "segment_id": "seg_005",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:02",
+    "timestamp_end": null,
+    "original_text": "That's great news.",
+    "cleaned_text": "That's great news.",
+    "sequence_number": 5
+  },
+  {
+    "segment_id": "seg_006",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:02",
+    "timestamp_end": null,
+    "original_text": "Arun, please prepare the detailed Q3 marketing proposal by Friday.",
+    "cleaned_text": "Arun, please prepare the detailed Q3 marketing proposal by Friday.",
+    "sequence_number": 6
+  },
+  {
+    "segment_id": "seg_007",
+    "meeting_id": "sample_001",
+    "speaker": "Arun",
+    "timestamp_start": "09:03",
+    "timestamp_end": null,
+    "original_text": "Sure, I will prepare the proposal by Friday and send it to the team.",
+    "cleaned_text": "Sure, I will prepare the proposal by Friday and send it to the team.",
+    "sequence_number": 7
+  },
+  {
+    "segment_id": "seg_008",
+    "meeting_id": "sample_001",
+    "speaker": "Meena",
+    "timestamp_start": "09:04",
+    "timestamp_end": null,
+    "original_text": "I have a question regarding the payment gateway bug reported yesterday.",
+    "cleaned_text": "I have a question regarding the payment gateway bug reported yesterday.",
+    "sequence_number": 8
+  },
+  {
+    "segment_id": "seg_009",
+    "meeting_id": "sample_001",
+    "speaker": "Meena",
+    "timestamp_start": "09:04",
+    "timestamp_end": null,
+    "original_text": "Was it investigated?",
+    "cleaned_text": "Was it investigated?",
+    "sequence_number": 9
+  },
+  {
+    "segment_id": "seg_010",
+    "meeting_id": "sample_001",
+    "speaker": "Rohan",
+    "timestamp_start": "09:05",
+    "timestamp_end": null,
+    "original_text": "Yes, the backend team already resolved the payment gateway bug early this morning.",
+    "cleaned_text": "Yes, the backend team already resolved the payment gateway bug early this morning.",
+    "sequence_number": 10
+  },
+  {
+    "segment_id": "seg_011",
+    "meeting_id": "sample_001",
+    "speaker": "Meena",
+    "timestamp_start": "09:06",
+    "timestamp_end": null,
+    "original_text": "Perfect.",
+    "cleaned_text": "Perfect.",
+    "sequence_number": 11
+  },
+  {
+    "segment_id": "seg_012",
+    "meeting_id": "sample_001",
+    "speaker": "Meena",
+    "timestamp_start": "09:06",
+    "timestamp_end": null,
+    "original_text": "I will review the updated UI design before Monday and share feedback.",
+    "cleaned_text": "I will review the updated UI design before Monday and share feedback.",
+    "sequence_number": 12
+  },
+  {
+    "segment_id": "seg_013",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:07",
+    "timestamp_end": null,
+    "original_text": "Thanks Meena.",
+    "cleaned_text": "Thanks Meena.",
+    "sequence_number": 13
+  },
+  {
+    "segment_id": "seg_014",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:07",
+    "timestamp_end": null,
+    "original_text": "We also need someone to update the user documentation for the new release soon.",
+    "cleaned_text": "We also need someone to update the user documentation for the new release soon.",
+    "sequence_number": 14
+  },
+  {
+    "segment_id": "seg_015",
+    "meeting_id": "sample_001",
+    "speaker": "Arun",
+    "timestamp_start": "09:08",
+    "timestamp_end": null,
+    "original_text": "Should we hire an external technical writer?",
+    "cleaned_text": "Should we hire an external technical writer?",
+    "sequence_number": 15
+  },
+  {
+    "segment_id": "seg_016",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:09",
+    "timestamp_end": null,
+    "original_text": "We decided to keep documentation in-house for this quarter.",
+    "cleaned_text": "We decided to keep documentation in-house for this quarter.",
+    "sequence_number": 16
+  },
+  {
+    "segment_id": "seg_017",
+    "meeting_id": "sample_001",
+    "speaker": "Rohan",
+    "timestamp_start": "09:10",
+    "timestamp_end": null,
+    "original_text": "I will coordinate with QA to execute load tests by next Wednesday.",
+    "cleaned_text": "I will coordinate with QA to execute load tests by next Wednesday.",
+    "sequence_number": 17
+  },
+  {
+    "segment_id": "seg_018",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:11",
+    "timestamp_end": null,
+    "original_text": "Excellent.",
+    "cleaned_text": "Excellent.",
+    "sequence_number": 18
+  },
+  {
+    "segment_id": "seg_019",
+    "meeting_id": "sample_001",
+    "speaker": "Priya",
+    "timestamp_start": "09:11",
+    "timestamp_end": null,
+    "original_text": "Let's reconvene on Friday afternoon.",
+    "cleaned_text": "Let's reconvene on Friday afternoon.",
+    "sequence_number": 19
+  }
+]

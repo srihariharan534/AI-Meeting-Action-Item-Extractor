@@ -1,0 +1,57 @@
+[
+  {
+    "meeting_id": "bench_001",
+    "title": "Marketing Sprint Planning",
+    "meeting_date": "2026-09-18",
+    "transcript": "Priya: Arun, please prepare the detailed marketing report by Friday.\nArun: Sure, I will prepare the report by Friday.",
+    "action_items": [
+      {
+        "task": "Prepare the detailed marketing report",
+        "owner": "Arun",
+        "deadline_text_original": "by Friday",
+        "evidence": "Arun, please prepare the detailed marketing report by Friday."
+      }
+    ]
+  },
+  {
+    "meeting_id": "bench_002",
+    "title": "Backend Sync",
+    "meeting_date": "2026-09-18",
+    "transcript": "Rohan: We need someone to update the API documentation.\nMeena: I will review the UI components before Monday.",
+    "action_items": [
+      {
+        "task": "Update the API documentation",
+        "owner": null,
+        "deadline_text_original": null,
+        "evidence": "We need someone to update the API documentation."
+      },
+      {
+        "task": "Review the UI components",
+        "owner": "Meena",
+        "deadline_text_original": "before Monday",
+        "evidence": "I will review the UI components before Monday."
+      }
+    ]
+  },
+  {
+    "meeting_id": "bench_003",
+    "title": "QA Infrastructure",
+    "meeting_date": "2026-09-18",
+    "transcript": "Suresh: I will coordinate with QA to execute load tests by next Wednesday.\nPriya: We already completed the security audit yesterday.",
+    "action_items": [
+      {
+        "task": "Coordinate with QA to execute load tests",
+        "owner": "Suresh",
+        "deadline_text_original": "by next Wednesday",
+        "evidence": "I will coordinate with QA to execute load tests by next Wednesday."
+      }
+    ]
+  },
+  {
+    "meeting_id": "bench_004",
+    "title": "General Sync - No Actions",
+    "meeting_date": "2026-09-18",
+    "transcript": "Priya: Welcome everyone. Today we are reviewing the Q2 revenue numbers.\nArun: Numbers look solid, we grew 12% quarter over quarter.\nPriya: Great to hear, let's wrap up.",
+    "action_items": []
+  }
+]
