@@ -10,12 +10,8 @@ An intelligent, evidence-grounded AI system that converts unstructured meeting t
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-### API Docs (FastAPI Swagger UI — `http://localhost:8080/docs`)
-![API Docs](assets/screenshots/api_docs.png)
-
-### Dashboard (Streamlit — `http://localhost:8501`)
 ![Dashboard](assets/screenshots/dashboard.png)
 
 ---
